@@ -1,0 +1,10 @@
+{
+
+    // learn destructrnig in typescript
+
+    
+
+
+
+
+}

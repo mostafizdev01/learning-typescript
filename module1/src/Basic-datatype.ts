@@ -5,7 +5,7 @@
 
 // string ===
 
-let firstName : string = "mezba";   // kono ekta datar type bosanoye expresive bole. and kono ekta data er type typeScript bujte pare take bole inpresive datatype.
+let firstName : string = "mezba";   // kono ekta datar type bosanoke expresive bole. and kono ekta data er type typeScript bujte pare take bole inpresive datatype.
 console.log(firstName);
 
 /// number 
